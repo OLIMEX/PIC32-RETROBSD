@@ -1,0 +1,3 @@
+It is recommended to use the binaries from the "Stable-release" sub-folder.
+
+Early versions of PIC32-RetroBSD board were preprogrammed with outdated version of the bootloader, that did not properly react on BUT key. In this case, you can still enter bootloader mode if you short pin 14 (RD8) and pin 20 (GND) of CON1 and then press and release the RST key. After you have entered the bootloader mode use pic32prog utility to upload new unix.hex to the board.
