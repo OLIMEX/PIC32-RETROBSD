@@ -1,0 +1,38 @@
+Qty Value                           Device                                      Parts                            
+1   0R(Board_Mounted)               R_0R0R(NA)                                  R22                              
+1   1M                              R-EU_R0603_5MIL_DWS                         R5                               
+1   1N4148/mini-melf                DSMD                                        D2                               
+2   1N5819S/SS14                    SCHOTKKY7.62SS2                             D1, D3                           
+2   1k                              R-EU_R0603_5MIL_DWS                         R9, R10                          
+1   2.2uF/6.3V/10%                  C-EUC0603_DWS                               C15                              
+4   4.7k                            R-EU_R0603_5MIL_DWS                         R11, R12, R16, R17               
+1   4.7nF/10V/10%                   C-EUC0603_5MIL                              C21                              
+3   10k                             R-EU_R0603_5MIL_DWS                         R6, R15, R21                     
+5   10uF/6.3V/20%                   C-EUC0603_DWS                               C1, C9, C13, C14, C27            
+1   13k/1%                          R-EU_R0603_5MIL_DWS                         R1                               
+2   20k                             R-EU_R0603_5MIL_DWS                         R13, R18                         
+2   20pF/10V/5%                     C-EUC0603_DWS                               C7, C8                           
+1   33R                             R-EU_R0603_5MIL_DWS                         R2                               
+3   47uF/6.3V/20%                   C-EUC0805_5MIL_DWS                          C10, C11, C17                    
+8   100nF/10V/20%                   C-EUC0603_DWS                               C2, C3, C4, C5, C6, C12, C16, C20
+1   240R/1%                         R-EU_R0603_5MIL_DWS                         R4                               
+2   330R                            R-EU_R0603_5MIL_DWS                         R19, R20                         
+1   390R/1%                         R-EU_R0603_5MIL_DWS                         R3                               
+1   AMS1117-ADJ(SOT-223)            LM1117THERMAL_OFF                           VR(3.3V)                         
+1   BH10S                           ML10                                        UEXT                             
+4   FB0805/600R/2A                  L-USL0805_5MIL_DWS                          L1, L2, L3, L4                   
+3   FIDUCIAL                        FIDUCIAL                                    U$2, U$3, U$4                    
+1   G9:Opened/F0:Soldered           SJ2W3                                       G9/F0                            
+2   HN1x20                          CON20X1_2                                   CON1, CON2                       
+2   IT1185AU2                       SW-TAKTIT1185AU2                            BUT, RST                         
+1   LED0603(GREEN)                  LED0603DWS                                  LED1                             
+1   LED0603(YELLOW)                 LED0603DWS                                  LED2                             
+1   PIC32MX795F512H-80/PT           PIC32MX440F256H"                            U1                               
+1   Q8.000MHz/HC-49S/20pF/20ppm/SMD HC49/S1                                     Q1                               
+1   RA1206_(4X0603)_4B8_100k        R_MATRIX_4E                                 RM1                              
+1   SY6280(SOT23-5)                 SY6280                                      U4                               
+1   TFC-WXCP11-08-LF                MICRO_SD/MMC_CP_NEW_SMALLERTFC-WXCP11-08-LF MICRO_SD                         
+1   USB-OTG                         MINI_USB9SMALLER_CREAM                      USB                              
+1   WU06S                           CON6WUO6S                                   ICSP                             
+3   closed                          SJSJ_1_SMALLER_CLOSE                        BUT_J, L1_E, L2_E                
+1   open                            SJSJ_SMALLER                                J1                               
