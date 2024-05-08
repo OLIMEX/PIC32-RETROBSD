@@ -1,0 +1,3 @@
+Download from this link:
+
+https://ftp.olimex.com/PIC32-RETROBSD/Filesystem/sdcard.img
