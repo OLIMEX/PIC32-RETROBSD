@@ -1,0 +1,12 @@
+How to download and use DiscoBSD instead of RETROBSD with Olimex PIC32-RETROBSD
+
+1. If you want to program the hex via USB: Download pic32prog build for Ubuntu 22.04 from this fork: https://github.com/jblang/pic32prog/releases/tag/ubuntu-fix (Windows users, see instructions for using USB device from WSL2 using usbipd: https://learn.microsoft.com/en-us/windows/wsl/connect-usb)
+2. Download latest release with DiscoBSD PIC32 archive from: https://github.com/chettrick/discobsd/releases
+3. Run `pic32prog unix.hex` with the unix.hex file from the pinguino-micro directory extracted from the zip.
+4. Prepare the micro SD card with sdcard.img
+
+If you have a PIC32 compatible programmer attach it to the 6-pin ICSP header and program with the unix.hex from step 2 (skip steps 1 and 3).
+
+It is best to use latest versions of the software from the links, but in case they are not working you can find versions we used at our GitHub.
+
+Thanks to Mr. Langston.
